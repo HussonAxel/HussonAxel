@@ -7,7 +7,16 @@ This ongoing project is a chance for me to hone my skills and explore new avenue
 
 With my expertise in Layout, Prototype, User Flow, Site Map, API usage, React, HTML, CSS, and JavaScript, this project provides a professional challenge that allows me to leverage my existing skills while exploring new ones. By managing the Design, Development, and Deployment processes, I aim to take this project to its successful completion, which in turn will help me to further my career goals.
       
-"I am currently learning:
+      
+I am also deepening my knowledge on: <br>
+
+React <br>
+Next.js <br>
+JavaScript <br>
+TypeScript <br>
+
+
+I am currently learning:
 Backend development with: <br>
 
 Laravel <br>
@@ -15,9 +24,4 @@ Symfony <br>
 Drupal <br>
 
 
-I am also deepening my knowledge on: <br>
 
-React <br>
-Next.js <br>
-JavaScript <br>
-TypeScript <br>
