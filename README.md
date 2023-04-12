@@ -1,28 +1,23 @@
-###  👋 Hello there, I'm Axel. I'm 20 and i'm following a work-linked training with OpenClassrooms. I'm still looking for someone to hire, so dont be afraid to reach me!
+###  👋 Hello there, I'm Axel. I am currently doing an apprenticeship at Smile since September 2022.
+I am currently exploring positions to continue my apprenticeship training at OpenClassrooms for a Bachelor's degree level program as a JavaScript/React developer.
 
-🔭 I'm currently working on : <br>
-Rather than developing many projects, I have at heart to carry out a big project in order to improve something that already exists. Based on the Spotify application, I wanted to use all the skills I have in order to improve the user experience. <br>
+Currently, I am engaged in an multiples projects that aims to enhance the user experience of League Of Legends & Pokemon fans by leveraging my diverse skillset. Rather than simply developing multiple projects, I am focusing on a significant project that involves improving an existing application.
 
-This project, still in progress, will allow me to develop new skills (questionnaires, statistical research, comparisons with competing alternatives), to acquire a certain working methodology, so as to be clear and organized in order to be able to exchange with future collaborators, but also to improve the skills that I have already been able to acquire in the past (Layout, Prototype, User Flow, Site Map, use of API, React, HTML, CSS, JavaScript.) <br>
+This ongoing project is a chance for me to hone my skills and explore new avenues such as questionnaire development, statistical research, comparative analysis with competing alternatives, and implementing a systematic work methodology. These experiences will help me interact with future collaborators more effectively while pushing my boundaries and developing new competencies.
 
-   Clearly, this project concerning the Spotify application is a way for me to use all the skills that I have been able to acquire during my years of development while having a relatively "professional" project, while discovering new things, by managing the Design, development and deployment part. <br>
+With my expertise in Layout, Prototype, User Flow, Site Map, API usage, React, HTML, CSS, and JavaScript, this project provides a professional challenge that allows me to leverage my existing skills while exploring new ones. By managing the Design, Development, and Deployment processes, I aim to take this project to its successful completion, which in turn will help me to further my career goals.
       
- 🌱 I’m also learning how to : <br>
-            - Prototyping on Figma <br>
-            - Making apps with react and API  <br>
-            - Backend to become fullstack <br> <br>
+"I am currently learning:
+Backend development with: <br>
 
-<!--
-**HussonAxel/HussonAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel <br>
+Symfony <br>
+Drupal <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also deepening my knowledge on: <br>
+
+React <br>
+Next.js <br>
+JavaScript <br>
+TypeScript <br>
