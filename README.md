@@ -1,27 +1,34 @@
-###  👋 Hello there, I'm Axel. I am currently doing an apprenticeship at Smile since September 2022.
-I am currently exploring positions to continue my apprenticeship training at OpenClassrooms for a Bachelor's degree level program as a JavaScript/React developer.
+## Axel Husson - Full Stack Developer and Tech EnthusiastAxel Husson - Full Stack Developer and Tech Enthusiast
+### 👋 Hi there, I'm Axel! I'm deeply immersed in the world of web development, currently sharpening my skills through a dynamic apprenticeship at Smile - Europe's leader in open-source solutions.
 
-Currently, I am engaged in an multiples projects that aims to enhance the user experience of League Of Legends & Pokemon fans by leveraging my diverse skillset. Rather than simply developing multiple projects, I am focusing on a significant project that involves improving an existing application.
+### Professional Journey
 
-This ongoing project is a chance for me to hone my skills and explore new avenues such as questionnaire development, statistical research, comparative analysis with competing alternatives, and implementing a systematic work methodology. These experiences will help me interact with future collaborators more effectively while pushing my boundaries and developing new competencies.
+Smile Apprenticeship (Since September 2022): Here, I delve into Technical Maintenance and Application (TMA) for various clients, utilizing a robust tech stack including Drupal, Laravel, and Symfony.
+Previous OpenClassrooms Apprenticeship (7-Month Accelerated Program): Completed an intensive web development apprenticeship, originally scheduled for 12 months, where I built a solid foundation in web development basics.
 
-With my expertise in Layout, Prototype, User Flow, Site Map, API usage, React, HTML, CSS, and JavaScript, this project provides a professional challenge that allows me to leverage my existing skills while exploring new ones. By managing the Design, Development, and Deployment processes, I aim to take this project to its successful completion, which in turn will help me to further my career goals.
+### Education
+
+Bachelor's Degree (Ongoing): Pursuing a Bachelor's in JavaScript/React development at OpenClassrooms, aiming to deepen my expertise in these technologies.
+
+### Skillset
+
+      Frontend: Proficient in React, Next.js, JavaScript, TypeScript, HTML, CSS.
       
+      Backend: Currently enhancing my skills in Laravel, Symfony, Drupal, and exploring Adonis Js and Inertia for backend initialization.
       
-I am also deepening my knowledge on: <br>
+      Design & Deployment: Skilled in Layout, Prototype, User Flow, Site Map, and API integration.
+      
+      Tools & Frameworks: Eager to master PandaCSS and Biome for future projects.
 
-React <br>
-Next.js <br>
-JavaScript <br>
-TypeScript <br>
+Personal Projects ongoing :
 
+      PokeDex Web Application: Developing a unique Pokedex with custom imagery and integration with PokeAPI.
+      
+      League of Legends Official Site Redesign: Reimagining the official site with a fresh skin library, lore, and gameplay features.
+      
+      E-commerce and Showcase Sites: Actively working on a range of web projects including e-commerce and business showcase sites.
 
-I am currently learning:
-Backend development with: <br>
+Interests and Continuous Learning : 
 
-Laravel <br>
-Symfony <br>
-Drupal <br>
-
-
-
+I maintain a strong commitment to staying abreast of the latest trends and innovations in web development.
+My current and future interests lie in exploring new backend solutions and enhancing my understanding of modern CSS frameworks.
