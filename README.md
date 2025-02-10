@@ -1,34 +1,70 @@
-## Axel Husson - Full Stack Developer and Tech EnthusiastAxel Husson - Full Stack Developer and Tech Enthusiast
-### 👋 Hi there, I'm Axel! I'm deeply immersed in the world of web development, currently sharpening my skills through a dynamic apprenticeship at Smile - Europe's leader in open-source solutions.
+# Axel Husson
+### Full Stack Developer | Open Source Enthusiast
 
-### Professional Journey
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
-Smile Apprenticeship (Since September 2022): Here, I delve into Technical Maintenance and Application (TMA) for various clients, utilizing a robust tech stack including Drupal, Laravel, and Symfony.
-Previous OpenClassrooms Apprenticeship (7-Month Accelerated Program): Completed an intensive web development apprenticeship, originally scheduled for 12 months, where I built a solid foundation in web development basics.
+## About Me
+Full Stack Developer specializing in open-source solutions, currently advancing my skills through an apprenticeship at Smile, Europe's leading open-source integration company.
 
-### Education
+## Professional Experience
 
-Bachelor's Degree (Ongoing): Pursuing a Bachelor's in JavaScript/React development at OpenClassrooms, aiming to deepen my expertise in these technologies.
+### Smile (Sept 2022 - Present)
+- Technical Maintenance and Application (TMA) specialist
+- Working with enterprise clients using Drupal, Laravel, and Symfony
+- Implementing robust full-stack solutions in production environments
 
-### Skillset
+### OpenClassrooms (7-Month Accelerated Program)
+- Completed intensive web development curriculum
+- Mastered fundamental web technologies and best practices
+- Achieved program completion ahead of schedule (12-month program completed in 7 months)
 
-      Frontend: Proficient in React, Next.js, JavaScript, TypeScript, HTML, CSS.
-      
-      Backend: Currently enhancing my skills in Laravel, Symfony, Drupal, and exploring Adonis Js and Inertia for backend initialization.
-      
-      Design & Deployment: Skilled in Layout, Prototype, User Flow, Site Map, and API integration.
-      
-      Tools & Frameworks: Eager to master PandaCSS and Biome for future projects.
+## Technical Skills
 
-Personal Projects ongoing :
+### Frontend
+```typescript
+const frontendSkills = {
+    frameworks: ['React', 'Next.js'],
+    languages: ['TypeScript', 'JavaScript'],
+    markup: ['HTML5', 'CSS3']
+}
+```
 
-      PokeDex Web Application: Developing a unique Pokedex with custom imagery and integration with PokeAPI.
-      
-      League of Legends Official Site Redesign: Reimagining the official site with a fresh skin library, lore, and gameplay features.
-      
-      E-commerce and Showcase Sites: Actively working on a range of web projects including e-commerce and business showcase sites.
+### Backend
+```typescript
+const backendSkills = {
+    frameworks: ['Laravel', 'Symfony', 'Drupal'],
+    exploring: ['Adonis.js', 'Inertia']
+}
+```
 
-Interests and Continuous Learning : 
+### Development Tools
+- Design: Layout Prototyping, User Flow Mapping, Site Architecture
+- Deployment: CI/CD, API Integration
+- Upcoming: PandaCSS, Biome
 
-I maintain a strong commitment to staying abreast of the latest trends and innovations in web development.
-My current and future interests lie in exploring new backend solutions and enhancing my understanding of modern CSS frameworks.
+## Current Projects
+
+### PokeDex Web Application
+- Custom-designed Pokémon visualization
+- Integration with PokeAPI
+- Enhanced user interaction features
+
+### League of Legends Site Redesign
+- Modernized skin library interface
+- Expanded lore section
+- Improved gameplay feature documentation
+
+### E-commerce Solutions
+- Building scalable online shopping platforms
+- Creating customizable business showcase sites
+- Implementing secure payment integrations
+
+## Education
+- 🎓 Bachelor's in JavaScript/React Development (OpenClassrooms) - In Progress
+- Focus on modern web development practices and React ecosystem
+
+## Get in Touch
+- 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
