@@ -11,13 +11,18 @@ Full Stack Developer specializing in open-source solutions, currently advancing 
 
 ### Smile (Sept 2022 - Present)
 - Technical Maintenance and Application (TMA) specialist
-- Working with enterprise clients using Drupal, Laravel, and Symfony
+- Working with enterprise clients using Drupal, Laravel, Symfony, Wordpress and React. 
 - Implementing robust full-stack solutions in production environments
 
-### OpenClassrooms (7-Month Accelerated Program)
+### OpenClassrooms (12-Month Accelerated Program)
 - Completed intensive web development curriculum
 - Mastered fundamental web technologies and best practices
 - Achieved program completion ahead of schedule (12-month program completed in 7 months)
+
+### OpenClassrooms (24-Month Accelerated Program)
+- Completed intensive JavaScript & react web development curriculum
+- Mastered fundamental web technologies and best practices using modern technologies
+- Achieved program completion ahead of schedule (24-month program completed in 18 months)
 
 ## Technical Skills
 
@@ -33,7 +38,7 @@ const frontendSkills = {
 ### Backend
 ```typescript
 const backendSkills = {
-    frameworks: ['Laravel', 'Symfony', 'Drupal'],
+    frameworks: ['Laravel', 'Symfony', 'Drupal', 'Wordpress'],
     exploring: ['Adonis.js', 'Inertia']
 }
 ```
