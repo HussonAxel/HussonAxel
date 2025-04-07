@@ -2,7 +2,6 @@
 ### Full Stack Developer | Open Source Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
 ## About Me
 Full Stack Developer specializing in open-source solutions, currently advancing my skills through an apprenticeship at Smile, Europe's leading open-source integration company.
