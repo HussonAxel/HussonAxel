@@ -69,6 +69,5 @@ const backendSkills = {
 - Focus on modern web development practices and React ecosystem
 
 ## Get in Touch
-- 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [your-email@domain.com](mailto:axelhusson.pro@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/axelhusson/)
