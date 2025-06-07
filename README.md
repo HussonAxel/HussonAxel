@@ -76,7 +76,7 @@ const backendSkills = {
 
 ## Education & Certifications
 
-### 🎓 Application Developer - Java, Angular (RNCP Level 7 / Master's)
+### 🎓 Application Developer - Java, Angular (RNCP Level 7 / Master's) - Currently Looking For 
 **September 2025 - September 2026** | OpenClassrooms
 
 ### 🎓 Application Developer - JavaScript, React (RNCP Level 6 / Bachelor's)
