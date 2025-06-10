@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/axelhusson/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/HussonAxel)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:axelhusson.pro@gmail.com)
+[![RESUME](https://img.shields.io/badge/Resume-Download-green)](https://github.com/HussonAxel/HussonAxel/blob/main/CV.pdf)
+
 
 ## About Me
 Full Stack Developer with **3 years of experience** delivering web applications using React, Angular, Java, Drupal, WordPress, and AdonisJS. Currently seeking an **internship focused on Java and Angular development** to complement my advanced curriculum, ideally structured with a 4-day work / 1-day study schedule.
