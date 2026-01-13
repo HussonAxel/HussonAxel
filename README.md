@@ -1,101 +1,76 @@
+# Axel Husson  
+**Développeur Full-Stack** | React • TypeScript • Drupal • 3 ans d’expérience  
+**En recherche de stage** – 4 jours entreprise / 1 jour école – dès que possible
 
-# Axel Husson
-### Full Stack Developer | 3+ Years Experience | Java & Angular Focus
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/axelhusson/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/HussonAxel)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:axelhusson.pro@gmail.com)
-[![RESUME](https://img.shields.io/badge/Resume-Download-green)](https://github.com/HussonAxel/HussonAxel/blob/main/CV.pdf)
-
-
-## About Me
-Full Stack Developer with **3 years of experience** delivering web applications using React, Angular, Java, Drupal, WordPress, and AdonisJS. Currently seeking an **internship focused on Java and Angular development** to complement my advanced curriculum, ideally structured with a 4-day work / 1-day study schedule.
-
-**Languages:** French (Native) | English (C1)
-
-## Professional Experience
-
-### Full Stack Developer (TMA) - SMILE | Lille, France
-**September 2022 - Present**
-- **Technologies:** PHP, Drupal, WordPress (Headless), Symfony, Laravel, Vue.js, React, Next.js, JavaScript, GraphQL, Ansible, GitLab CI
-- Developed and maintained complex Drupal and WordPress sites (including headless with React/Next.js)
-- Built backend systems and APIs using PHP frameworks (Symfony, Laravel)
-- Implemented CI/CD automation using Ansible and GitLab CI
-- Integrated third-party services: APIs (Facebook, Mobile), CRM (HubSpot), Analytics (GTM, Matomo)
-- Managed web performance (Varnish), security (Pentests, Friendly Captcha), SEO optimization
-
-## Technical Skills
-
-### Core Languages
-```typescript
-const coreLanguages = ['TypeScript/JavaScript', 'HTML5', 'CSS3/SCSS', 'Java']
-```
-
-### Frontend Development
-```typescript
-const frontendSkills = {
-    frameworks: ['React', 'Angular'],
-    stateManagement: ['Redux Toolkit', 'Zustand'],
-    styling: ['Tailwind CSS', 'Styled-components', 'PandaCSS'],
-    componentLibraries: ['shadcn/ui', 'Framer Motion'],
-    dataManagement: ['TanStack']
-}
-```
-
-### Backend Development
-```typescript
-const backendSkills = {
-    frameworks: ['AdonisJS', 'Java Spring Boot'],
-    cms: ['Drupal', 'WordPress (Headless)'],
-    apis: ['REST', 'GraphQL', 'OpenAPI/Swagger']
-}
-```
-
-### DevOps & Quality
-- **Testing:** Jest, React Testing Library, API Testing (Postman, Insomnia)
-- **DevOps:** Docker, Git, CI/CD, Ansible, GitHub, GitLab
-- **Practices:** Web Accessibility (WCAG), Clean Code, Documentation
-
-## Current Projects
-
-### 🎯 Pokémon Living Dex (PLD) - Build In Public
-**Since 2025** | [Live Site](https://pokemon-living-dex.com)
-- Web application to help Pokémon players manage and visualize collection progress
-- Features checklists spanning multiple generations
-- Modern React implementation with advanced state management
-
-### 📚 Vanya Stolarski - Author Website
-**Since 2024** | [vanyastolarski.fr](https://vanyastolarski.fr)
-- Official website for author Vanya Stolarski
-- Central hub showcasing published works, news, and contact information
-- Custom CMS integration for content management
-
-### 💻 Personal Learning Projects
-**Since 2022** | [GitHub Repository](https://github.com/HussonAxel)
-- Continuous exploration of new web technologies and frameworks
-- OpenClassrooms training projects and self-directed learning
-- Demonstrates commitment to practical skill application
-
-## Education & Certifications
-
-### 🎓 Application Developer - Java, Angular (RNCP Level 7 / Master's) - Currently Looking For 
-**September 2025 - September 2026** | OpenClassrooms
-
-### 🎓 Application Developer - JavaScript, React (RNCP Level 6 / Bachelor's)
-**September 2023 - September 2025** | OpenClassrooms
-
-### 🎓 Web Developer - HTML, CSS, JS (RNCP Level 5)
-**September 2022 - September 2023** | OpenClassrooms
-
-## What I'm Looking For
-🔍 **Internship Opportunity:** Java & Angular focused development role  
-📅 **Schedule:** 4-day work / 1-day study arrangement  
-🎯 **Goal:** Complement advanced curriculum with hands-on enterprise experience  
-
-## Get in Touch
-- 📧 **Email:** [axelhusson.pro@gmail.com](mailto:axelhusson.pro@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/axelhusson](https://www.linkedin.com/in/axelhusson/)
-- 📱 **Phone:** +33 7 86 71 03 64
+📞 +33 7 86 71 03 64  
+✉️ axelhusson.pro@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/axelhusson/) – [GitHub](https://github.com/HussonAxel)
 
 ---
-*Available for internship opportunities starting immediately • Open to remote or hybrid arrangements*
+
+## 💡 Profil
+Développeur Full-Stack avec **3 ans d’expérience** en SSII, spécialisé **React / TypeScript** et **Drupal Headless**.  
+Je conçois des applications rapides, accessibles et maintenables, en mettant l’accent sur la performance, la sécurité et l’expérience développeur.  
+**Motivé** pour mettre mes compétences au service d’une équipe pendant mon stage de niveau 7, en **4 jours entreprise / 1 jour étude**.
+
+---
+
+## 🛠️ Compétences clés
+
+| Frontend | Backend & CMS | DevOps & Qualité |
+|----------|---------------|------------------|
+| React 18 (Hooks, Suspense) | Drupal 10 (Headless, GraphQL, JSON:API) | Docker & docker-compose |
+| Next.js 14 (App Router, SSR) | PHP 8 (modules custom, migrations) | GitLab CI (cache, parallèle) |
+| TypeScript (strict) | Symfony / Laravel (API REST) | Tests (Jest, RTL, Cypress) |
+| Tailwind CSS, Styled-components | Redis (cache, sessions) | Lighthouse CI, WCAG 2.1 |
+| Zustand / Redux Toolkit | MySQL / PostgreSQL | Clean Code, OpenAPI 3 |
+
+---
+
+## 🚀 Expérience professionnelle
+
+### **SMILE** – Ingénieur d’études Full-Stack (TMA)  
+*Lille – Remote* ‑ **Sept 2022 → Aujourd’hui**
+
+**Stack principale :** React • Next.js • TypeScript • Drupal 10 • PHP 8 • GraphQL • Redis • Varnish • GitLab CI • Docker
+
+**Réalisations :**
+- Plateforme e-commerce **Drupal 10 + Next.js** (5 M pages/mois) : migration headless, **-30 % TTFB** via Varnish + Redis, Core Web Vitals dans le vert.
+- **Design System** React + Storybook : 40 composants réutilisables, accessibilité WCAG 2.1, thèmes clair/sombre.
+- **CI/CD** : pipelines GitLab avec tests E2E (Cypress), Lighthouse CI, déploiement automatise sur Kubernetes.
+- **Performance** : mise en place de React Server Components et streaming SSR, **+45 % Lighthouse performance score**.
+- **GraphQL** : schema stitching entre Drupal et API externes, cache Redis avec invalidation par tags.
+
+---
+
+## 🎓 Formation
+
+| Diplôme | Établissement | Statut |
+|---------|---------------|--------|
+| **Titre RNCP Niveau 7** – Architecte logiciel (Java, Angular) | OpenClassrooms | En cours (sept 2025) |
+| **Titre RNCP Niveau 6** – Développeur Full-Stack JS | OpenClassrooms | Obtenu sept 2025 |
+| **Titre RNCP Niveau 5** – Développeur Web | OpenClassrooms | Obtenu sept 2023 |
+
+---
+
+## 🌟 Projets
+
+| Projet | Stack | Description | Lien |
+|--------|-------|-------------|------|
+| **Pokémon Living Dex** | Next.js 14, React 18, Zustand, Tailwind | Application PWA de collection avec offline-first et sync cloud | [pokemon-living-dex.com](https://pokemon-living-dex.com) |
+| **Vanya Stolarski** | Next.js 14, Sanity CMS, i18n | Site vitrine d'autrice avec CMS headless et génération statique | [vanyastolarski.fr](https://vanyastolarski.fr) |
+| **Dotfiles & Scripts** | Bash, Zsh, GitHub Actions | Scripts d’automatisation post-install (Ubuntu/macOS) | [github.com/HussonAxel/dotfiles](https://github.com/HussonAxel/dotfiles) |
+
+---
+
+## 🌍 Langues
+- **Français** – natif  
+- **Anglais** – C1
+
+---
+
+## 📬 Contact
+- **Mail** : [axelhusson.pro@gmail.com](mailto:axelhusson.pro@gmail.com)  
+- **Téléphone** : +33 7 86 71 03 64  
+- **LinkedIn** : [linkedin.com/in/axelhusson](https://www.linkedin.com/in/axelhusson/)  
+- **GitHub** : [github.com/HussonAxel](https://github.com/HussonAxel)
