@@ -56,9 +56,7 @@ Je conçois des applications rapides, accessibles et maintenables, en mettant l�
 
 | Projet | Stack | Description | Lien |
 |--------|-------|-------------|------|
-| **Pokémon Living Dex** | Next.js 14, React 18, Zustand, Tailwind | Application PWA de collection avec offline-first et sync cloud | [pokemon-living-dex.com](https://pokemon-living-dex.com) |
 | **Vanya Stolarski** | Next.js 14, Sanity CMS, i18n | Site vitrine d'autrice avec CMS headless et génération statique | [vanyastolarski.fr](https://vanyastolarski.fr) |
-| **Dotfiles & Scripts** | Bash, Zsh, GitHub Actions | Scripts d’automatisation post-install (Ubuntu/macOS) | [github.com/HussonAxel/dotfiles](https://github.com/HussonAxel/dotfiles) |
 
 ---
 
