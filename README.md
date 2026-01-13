@@ -47,7 +47,6 @@ Je conçois des applications rapides, accessibles et maintenables, en mettant l�
 
 | Diplôme | Établissement | Statut |
 |---------|---------------|--------|
-| **Titre RNCP Niveau 7** – Architecte logiciel (Java, Angular) | OpenClassrooms | En cours (sept 2025) |
 | **Titre RNCP Niveau 6** – Développeur Full-Stack JS | OpenClassrooms | Obtenu sept 2025 |
 | **Titre RNCP Niveau 5** – Développeur Web | OpenClassrooms | Obtenu sept 2023 |
 
