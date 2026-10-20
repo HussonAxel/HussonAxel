@@ -1,107 +1,115 @@
+<div align="center">
+
 # Axel Husson
 
-**Développeur Frontend React / TypeScript**  
-React • TypeScript • Next.js • Angular • Drupal Headless • 4 ans d’expérience
+### Développeur Frontend React / TypeScript
 
-**En recherche d’un poste en CDI**  
-Disponible immédiatement ou selon préavis  
-Mobilité : France, remote ou hybride selon opportunité
+React · TypeScript · Next.js · Angular · Drupal Headless — 4 ans d'expérience
 
-📞 +33 7 86 71 03 64  
-✉️ [axelhusson.pro@gmail.com](mailto:axelhusson.pro@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/axelhusson/) – [GitHub](https://github.com/HussonAxel) – [Portfolio](https://axelhsn.framer.website/)
+[![Disponibilité](https://img.shields.io/badge/CDI-disponible-2ea44f?style=flat-square)](mailto:axelhusson.pro@gmail.com)
+[![Localisation](https://img.shields.io/badge/France-remote%20%7C%20hybride-0a66c2?style=flat-square)](#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-axelhusson-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelhusson/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-axelhsn.framer.website-000000?style=flat-square&logo=framer&logoColor=white)](https://axelhsn.framer.website/)
 
----
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,angular,tailwind,astro,graphql,drupal,docker,gitlab&perline=10" alt="Stack principale" />
 
-## Profil
-
-Développeur Frontend React/TypeScript avec 4 ans d’expérience depuis septembre 2022, spécialisé dans la création d’interfaces web performantes, accessibles et maintenables.
-
-Diplômé d’un titre RNCP niveau 6, je recherche un poste en CDI pour contribuer à des produits web exigeants, avec une attention particulière à la qualité frontend, à l’expérience utilisateur et à la robustesse du code.
-
-J’ai travaillé sur plusieurs applications web en contexte TMA multi-projets, avec des environnements React, Next.js, Angular, TypeScript, Drupal Headless, WordPress, PHP, CI/CD et Docker.
+</div>
 
 ---
 
-## Compétences clés
+## À propos
 
-| Frontend | État & données | Tests & qualité |
-|----------|----------------|-----------------|
-| React | Redux Toolkit | Jest |
-| Next.js | Zustand | React Testing Library |
-| TypeScript | TanStack Query | Tests d’intégration |
-| Angular | REST | Postman |
-| HTML5 / CSS3 / SCSS | GraphQL | Accessibilité WCAG |
-| Tailwind CSS | API métier | SEO |
-| Styled-components | | Clean Code |
-| PandaCSS | | |
-| shadcn/ui | | |
-| Framer Motion | | |
+Développeur frontend depuis septembre 2022, je conçois des interfaces web **performantes, accessibles et maintenables**. Chez Smile, j'interviens en TMA multi-projets sur des applications React, Next.js et Angular connectées à des CMS headless (Drupal, WordPress), avec une attention constante portée à la qualité du code, aux tests et à l'expérience utilisateur.
 
-| Backend & CMS | DevOps & outils |
-|---------------|-----------------|
-| PHP | Git |
-| Symfony | GitHub |
-| Laravel | GitLab |
-| Drupal | GitLab CI |
-| WordPress | Docker |
-| Java Spring Boot | Ansible |
-| OpenAPI / Swagger | Vercel |
-| CMS Headless | Figma |
+Titulaire d'un **titre RNCP niveau 6** (Développeur d'application JavaScript / React), je recherche un **CDI** pour contribuer à des produits web exigeants.
+
+|   |   |
+|---|---|
+| 🎯 **Recherche** | CDI, Développeur Frontend React / TypeScript |
+| 📍 **Mobilité** | France, remote ou hybride selon opportunité |
+| ⏱️ **Disponibilité** | Immédiate ou selon préavis |
+| 🗣️ **Langues** | Français (natif) · Anglais (C1) |
 
 ---
 
-## Expérience professionnelle
+## Compétences
 
-### SMILE — Développeur Frontend / Fullstack
+| Domaine | Technologies |
+|---|---|
+| **Frontend** | React · Next.js · Angular · TypeScript · HTML5 / CSS3 / SCSS · Astro |
+| **UI & design system** | Tailwind CSS · shadcn/ui · styled-components · PandaCSS · Framer Motion · Figma |
+| **État & données** | Redux Toolkit · Zustand · TanStack Query · REST · GraphQL · OpenAPI / Swagger |
+| **Tests & qualité** | Jest · React Testing Library · tests d'intégration · Postman · Accessibilité WCAG · SEO · Clean Code |
+| **CMS & backend** | Drupal Headless · WordPress · Sanity · PHP (Symfony, Laravel) · Java (Spring Boot) |
+| **DevOps & outils** | Git · GitHub · GitLab · GitLab CI · Docker · Ansible · Vercel |
 
-*Lille / Montpellier, France* — **Septembre 2022 → Présent**
+---
 
-**Stack principale :** React • Next.js • Angular • TypeScript • Drupal • WordPress • PHP • Symfony • Laravel • Java • REST • GraphQL • TanStack Query • Jest • React Testing Library • GitLab CI • Docker • Ansible
+## Expérience
 
-**Réalisations :**
+### Smile — Développeur Frontend / Fullstack
+*Lille / Montpellier · Septembre 2022 → Aujourd'hui*
 
-- Développement et maintenance d’applications web pour plusieurs clients en **React**, **Next.js**, **Angular** et **TypeScript**, dans un contexte TMA multi-projets.
-- Modernisation de code legacy, notamment migration de fonctionnalités **jQuery** vers du JavaScript moderne et des composants frontend maintenables.
-- Conception d’interfaces connectées à des CMS headless **Drupal** et **WordPress**, via API **REST** et **GraphQL**.
-- Amélioration de la qualité frontend avec **Jest**, **React Testing Library**, revues de code et pair-programming.
-- Optimisation de l’expérience utilisateur et des performances : appels réseau avec **TanStack Query**, animations avec **Framer Motion**, cache applicatif et performance web.
-- Intégration de services tiers : **HubSpot**, **GTM**, **Matomo**, outils de consentement RGPD, API métier et services mobiles.
-- Contributions backend ponctuelles en **PHP** avec **Symfony**, **Laravel** et **Drupal**, ainsi qu’en **Java**.
-- Participation aux pipelines **CI/CD** avec **GitLab CI**, aux déploiements automatisés avec **Ansible** et à la standardisation des environnements avec **Docker**.
+Intervention en **TMA multi-projets** pour plusieurs clients, sur des applications web en production.
+
+**Applications & interfaces**
+- Développement et maintenance d'applications en **React**, **Next.js**, **Angular** et **TypeScript**.
+- Conception d'interfaces connectées à des CMS headless **Drupal** et **WordPress** via API **REST** et **GraphQL**.
+- Intégration de services tiers : **HubSpot**, **GTM**, **Matomo**, consentement RGPD, API métier et services mobiles.
+
+**Qualité & modernisation**
+- Modernisation de code legacy : migration de fonctionnalités **jQuery** vers du JavaScript moderne et des composants maintenables.
+- Tests avec **Jest** et **React Testing Library**, revues de code et pair-programming.
+
+**Performance & expérience utilisateur**
+- Optimisation des appels réseau et du cache avec **TanStack Query**.
+- Animations et micro-interactions avec **Framer Motion**.
+- Amélioration des performances web (chargement, cache applicatif).
+
+**Backend & industrialisation**
+- Contributions ponctuelles en **PHP** (Symfony, Laravel, Drupal) et en **Java**.
+- Pipelines **GitLab CI**, déploiements automatisés avec **Ansible**, environnements standardisés avec **Docker**.
+
+**Environnement :** React · Next.js · Angular · TypeScript · Drupal · WordPress · PHP · Symfony · Laravel · Java · REST · GraphQL · TanStack Query · Jest · React Testing Library · GitLab CI · Docker · Ansible
 
 ---
 
 ## Projets personnels
 
-| Projet | Stack | Description | Lien |
-|--------|-------|-------------|------|
-| **Pokemon Living Dex** | React, TypeScript, Tailwind CSS, shadcn/ui, Zustand, Vercel | Application de suivi de collection Pokémon permettant aux joueurs de gérer leur progression à travers les générations. Projet orienté produit, avec gestion d’état, interface responsive et composants réutilisables. | [pkmn-living-dex.vercel.app](https://pkmn-living-dex.vercel.app/) |
-| **Vanya Stolarski** | React, Tailwind CSS, Motion, Astro | Développement et maintenance d’un site vitrine pour un auteur, avec présentation des œuvres, actualités et informations de contact. | [vanyastolarski.fr](https://www.vanyastolarski.fr/) |
-| **Projets personnels & apprentissage** | React, TypeScript, UI, intégration API, outillage frontend | Projets personnels et expérimentations autour de React, TypeScript, UI, intégration API et outillage frontend. | [github.com/HussonAxel](https://github.com/HussonAxel?tab=repositories) |
+### Mis en avant
+
+| Projet | Description | Stack |
+|---|---|---|
+| **[Pokémon Living Dex](https://pkmn-living-dex.vercel.app/)** | Application de suivi de collection permettant de gérer sa progression à travers les générations. Projet orienté produit : gestion d'état, interface responsive, composants réutilisables. | React · TypeScript · Tailwind CSS · shadcn/ui · Zustand · Vercel |
+| **[Vanya Stolarski](https://www.vanyastolarski.fr/)** | Site vitrine d'un auteur : œuvres, galerie, actualités, contact. Contenus éditables par le client via **Sanity Studio** (`/admin`), pages rendues côté serveur avec cache CDN et **revalidation par webhook** à la publication, effets visuels en GLSL. | Astro · React · TypeScript · Tailwind CSS · Motion · Sanity · Vercel |
+| **[Pokédata](https://github.com/HussonAxel/pokedata)** | Application fullstack typée de bout en bout, avec authentification, base de données relationnelle et monorepo avec package UI partagé. | TanStack Start · oRPC · Drizzle · PostgreSQL · Better-Auth · shadcn/ui |
+
+### Autres projets
+
+| Projet | Description | Stack |
+|---|---|---|
+| [FunelQOL](https://github.com/HussonAxel/FunelQOL) | Addon World of Warcraft : panneaux configurables (devises, quêtes, coffre, raretés de zone…), avec outillage de mesure de performance et tests automatisés. | Lua · Python |
+| [ayijeUIQOL](https://github.com/HussonAxel/ayijeUIQOL) | Module de confort de jeu pour World of Warcraft : barres de progression (réputation, honneur, etc.) entièrement configurables. | Lua |
+| [react-custom-comps](https://github.com/HussonAxel/react-custom-comps) · [query.gg](https://github.com/HussonAxel/query.gg) | Expérimentations autour de composants React et de l'écosystème TanStack. | TanStack Start · TypeScript · Tailwind CSS · Vitest · Biome |
+
+L'ensemble de mes dépôts est disponible sur [github.com/HussonAxel](https://github.com/HussonAxel?tab=repositories).
 
 ---
 
 ## Formation
 
-| Diplôme | Établissement | Statut |
-|---------|---------------|--------|
-| **Titre RNCP niveau 6** — Développeur d’application JavaScript / React | OpenClassrooms | Diplômé en septembre 2025 |
-| **Titre RNCP niveau 5** — Développeur Web HTML, CSS, JavaScript | OpenClassrooms | Diplômé en septembre 2023 |
-
----
-
-## Langues
-
-- **Français** — natif
-- **Anglais** — C1
+| Diplôme | Établissement | Obtention |
+|---|---|---|
+| **Titre RNCP niveau 6** — Développeur d'application JavaScript / React | OpenClassrooms | Septembre 2025 |
+| **Titre RNCP niveau 5** — Développeur Web HTML, CSS, JavaScript | OpenClassrooms | Septembre 2023 |
 
 ---
 
 ## Contact
 
-- **Mail** : [axelhusson.pro@gmail.com](mailto:axelhusson.pro@gmail.com)
-- **Téléphone** : +33 7 86 71 03 64
-- **LinkedIn** : [linkedin.com/in/axelhusson](https://www.linkedin.com/in/axelhusson/)
-- **GitHub** : [github.com/HussonAxel](https://github.com/HussonAxel)
-- **Portfolio** : [axelhsn.framer.website](https://axelhsn.framer.website/)
+| | |
+|---|---|
+| ✉️ **Email** | [axelhusson.pro@gmail.com](mailto:axelhusson.pro@gmail.com) |
+| 📞 **Téléphone** | +33 7 86 71 03 64 |
+| 💼 **LinkedIn** | [linkedin.com/in/axelhusson](https://www.linkedin.com/in/axelhusson/) |
+| 🌐 **Portfolio** | [axelhsn.framer.website](https://axelhsn.framer.website/) |
